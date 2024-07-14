@@ -1,0 +1,11 @@
+C:\Users\jayde\OneDrive\Documents\projects\.NET\fake-bsod\bs\bin\Debug\bs.exe.config
+C:\Users\jayde\OneDrive\Documents\projects\.NET\fake-bsod\bs\bin\Debug\bs.exe
+C:\Users\jayde\OneDrive\Documents\projects\.NET\fake-bsod\bs\bin\Debug\bs.pdb
+C:\Users\jayde\OneDrive\Documents\projects\.NET\fake-bsod\bs\obj\Debug\bs.csproj.AssemblyReference.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\fake-bsod\bs\obj\Debug\bs.BsodForm.resources
+C:\Users\jayde\OneDrive\Documents\projects\.NET\fake-bsod\bs\obj\Debug\bs.FullscreenColor.resources
+C:\Users\jayde\OneDrive\Documents\projects\.NET\fake-bsod\bs\obj\Debug\bs.Properties.Resources.resources
+C:\Users\jayde\OneDrive\Documents\projects\.NET\fake-bsod\bs\obj\Debug\bs.csproj.GenerateResource.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\fake-bsod\bs\obj\Debug\bs.csproj.CoreCompileInputs.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\fake-bsod\bs\obj\Debug\bs.exe
+C:\Users\jayde\OneDrive\Documents\projects\.NET\fake-bsod\bs\obj\Debug\bs.pdb
