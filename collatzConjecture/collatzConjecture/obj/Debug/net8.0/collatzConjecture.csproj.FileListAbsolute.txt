@@ -1,0 +1,14 @@
+C:\Users\jayde\OneDrive\Documents\projects\.NET\collatzConjecture\collatzConjecture\obj\Debug\net8.0\collatzConjecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\OneDrive\Documents\projects\.NET\collatzConjecture\collatzConjecture\obj\Debug\net8.0\collatzConjecture.AssemblyInfoInputs.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\collatzConjecture\collatzConjecture\obj\Debug\net8.0\collatzConjecture.AssemblyInfo.cs
+C:\Users\jayde\OneDrive\Documents\projects\.NET\collatzConjecture\collatzConjecture\obj\Debug\net8.0\collatzConjecture.csproj.CoreCompileInputs.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\collatzConjecture\collatzConjecture\bin\Debug\net8.0\collatzConjecture.exe
+C:\Users\jayde\OneDrive\Documents\projects\.NET\collatzConjecture\collatzConjecture\bin\Debug\net8.0\collatzConjecture.deps.json
+C:\Users\jayde\OneDrive\Documents\projects\.NET\collatzConjecture\collatzConjecture\bin\Debug\net8.0\collatzConjecture.runtimeconfig.json
+C:\Users\jayde\OneDrive\Documents\projects\.NET\collatzConjecture\collatzConjecture\bin\Debug\net8.0\collatzConjecture.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\collatzConjecture\collatzConjecture\bin\Debug\net8.0\collatzConjecture.pdb
+C:\Users\jayde\OneDrive\Documents\projects\.NET\collatzConjecture\collatzConjecture\obj\Debug\net8.0\collatzConjecture.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\collatzConjecture\collatzConjecture\obj\Debug\net8.0\refint\collatzConjecture.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\collatzConjecture\collatzConjecture\obj\Debug\net8.0\collatzConjecture.pdb
+C:\Users\jayde\OneDrive\Documents\projects\.NET\collatzConjecture\collatzConjecture\obj\Debug\net8.0\collatzConjecture.genruntimeconfig.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\collatzConjecture\collatzConjecture\obj\Debug\net8.0\ref\collatzConjecture.dll

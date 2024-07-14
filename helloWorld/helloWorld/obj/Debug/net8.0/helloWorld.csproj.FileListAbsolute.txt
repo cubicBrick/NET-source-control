@@ -1,0 +1,14 @@
+C:\Users\jayde\OneDrive\Documents\projects\.NET\helloWorld\helloWorld\bin\Debug\net8.0\helloWorld.exe
+C:\Users\jayde\OneDrive\Documents\projects\.NET\helloWorld\helloWorld\bin\Debug\net8.0\helloWorld.deps.json
+C:\Users\jayde\OneDrive\Documents\projects\.NET\helloWorld\helloWorld\bin\Debug\net8.0\helloWorld.runtimeconfig.json
+C:\Users\jayde\OneDrive\Documents\projects\.NET\helloWorld\helloWorld\bin\Debug\net8.0\helloWorld.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\helloWorld\helloWorld\bin\Debug\net8.0\helloWorld.pdb
+C:\Users\jayde\OneDrive\Documents\projects\.NET\helloWorld\helloWorld\obj\Debug\net8.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\OneDrive\Documents\projects\.NET\helloWorld\helloWorld\obj\Debug\net8.0\helloWorld.AssemblyInfoInputs.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\helloWorld\helloWorld\obj\Debug\net8.0\helloWorld.AssemblyInfo.cs
+C:\Users\jayde\OneDrive\Documents\projects\.NET\helloWorld\helloWorld\obj\Debug\net8.0\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\helloWorld\helloWorld\obj\Debug\net8.0\helloWorld.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\helloWorld\helloWorld\obj\Debug\net8.0\refint\helloWorld.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\helloWorld\helloWorld\obj\Debug\net8.0\helloWorld.pdb
+C:\Users\jayde\OneDrive\Documents\projects\.NET\helloWorld\helloWorld\obj\Debug\net8.0\helloWorld.genruntimeconfig.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\helloWorld\helloWorld\obj\Debug\net8.0\ref\helloWorld.dll

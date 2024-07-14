@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\Movint-Square\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1275D6A-1383-47D8-851A-809D8753A176}|Movint-Square\\Moving-Square.csproj|c:\\users\\jayde\\onedrive\\documents\\projects\\.net\\movint-square\\movint-square\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1275D6A-1383-47D8-851A-809D8753A176}|Movint-Square\\Moving-Square.csproj|solutionrelative:movint-square\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1275D6A-1383-47D8-851A-809D8753A176}|Movint-Square\\Moving-Square.csproj|c:\\users\\jayde\\onedrive\\documents\\projects\\.net\\movint-square\\movint-square\\moving-square.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E1275D6A-1383-47D8-851A-809D8753A176}|Movint-Square\\Moving-Square.csproj|solutionrelative:movint-square\\moving-square.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moving-Square",
+              "DocumentMoniker": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\Movint-Square\\Movint-Square\\Moving-Square.csproj",
+              "RelativeDocumentMoniker": "Movint-Square\\Moving-Square.csproj",
+              "ToolTip": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\Movint-Square\\Movint-Square\\Moving-Square.csproj",
+              "RelativeToolTip": "Movint-Square\\Moving-Square.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-13T16:28:00.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\Movint-Square\\Movint-Square\\Program.cs",
+              "RelativeDocumentMoniker": "Movint-Square\\Program.cs",
+              "ToolTip": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\Movint-Square\\Movint-Square\\Program.cs",
+              "RelativeToolTip": "Movint-Square\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-13T01:02:11.88Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

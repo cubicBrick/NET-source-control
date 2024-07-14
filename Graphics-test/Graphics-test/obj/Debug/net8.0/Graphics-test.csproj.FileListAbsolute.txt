@@ -1,0 +1,14 @@
+C:\Users\jayde\source\repos\Graphics-test\Graphics-test\bin\Debug\net8.0\Graphics-test.exe
+C:\Users\jayde\source\repos\Graphics-test\Graphics-test\bin\Debug\net8.0\Graphics-test.deps.json
+C:\Users\jayde\source\repos\Graphics-test\Graphics-test\bin\Debug\net8.0\Graphics-test.runtimeconfig.json
+C:\Users\jayde\source\repos\Graphics-test\Graphics-test\bin\Debug\net8.0\Graphics-test.dll
+C:\Users\jayde\source\repos\Graphics-test\Graphics-test\bin\Debug\net8.0\Graphics-test.pdb
+C:\Users\jayde\source\repos\Graphics-test\Graphics-test\obj\Debug\net8.0\Graphics-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\source\repos\Graphics-test\Graphics-test\obj\Debug\net8.0\Graphics-test.AssemblyInfoInputs.cache
+C:\Users\jayde\source\repos\Graphics-test\Graphics-test\obj\Debug\net8.0\Graphics-test.AssemblyInfo.cs
+C:\Users\jayde\source\repos\Graphics-test\Graphics-test\obj\Debug\net8.0\Graphics-test.csproj.CoreCompileInputs.cache
+C:\Users\jayde\source\repos\Graphics-test\Graphics-test\obj\Debug\net8.0\Graphics-test.dll
+C:\Users\jayde\source\repos\Graphics-test\Graphics-test\obj\Debug\net8.0\refint\Graphics-test.dll
+C:\Users\jayde\source\repos\Graphics-test\Graphics-test\obj\Debug\net8.0\Graphics-test.pdb
+C:\Users\jayde\source\repos\Graphics-test\Graphics-test\obj\Debug\net8.0\Graphics-test.genruntimeconfig.cache
+C:\Users\jayde\source\repos\Graphics-test\Graphics-test\obj\Debug\net8.0\ref\Graphics-test.dll
