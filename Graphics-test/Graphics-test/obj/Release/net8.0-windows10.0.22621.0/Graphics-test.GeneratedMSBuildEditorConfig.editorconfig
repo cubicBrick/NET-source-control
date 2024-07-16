@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Graphics_test
-build_property.ProjectDir = C:\Users\jayde\source\repos\Graphics-test\Graphics-test\
+build_property.ProjectDir = C:\Users\jayde\OneDrive\Documents\projects\.NET\Graphics-test\Graphics-test\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
