@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\startnstop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC7DCB5-1FD9-4064-9C6F-3BF4A56E496B}|startnstop\\startnstop.csproj|c:\\users\\jayde\\onedrive\\documents\\projects\\.net\\startnstop\\startnstop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC7DCB5-1FD9-4064-9C6F-3BF4A56E496B}|startnstop\\startnstop.csproj|solutionrelative:startnstop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC7DCB5-1FD9-4064-9C6F-3BF4A56E496B}|startnstop\\startnstop.csproj|c:\\users\\jayde\\onedrive\\documents\\projects\\.net\\startnstop\\startnstop\\startnstop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FDC7DCB5-1FD9-4064-9C6F-3BF4A56E496B}|startnstop\\startnstop.csproj|solutionrelative:startnstop\\startnstop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "startnstop",
+              "DocumentMoniker": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\startnstop\\startnstop\\startnstop.csproj",
+              "RelativeDocumentMoniker": "startnstop\\startnstop.csproj",
+              "ToolTip": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\startnstop\\startnstop\\startnstop.csproj",
+              "RelativeToolTip": "startnstop\\startnstop.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-22T00:27:04.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\startnstop\\startnstop\\Program.cs",
+              "RelativeDocumentMoniker": "startnstop\\Program.cs",
+              "ToolTip": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\startnstop\\startnstop\\Program.cs",
+              "RelativeToolTip": "startnstop\\Program.cs",
+              "ViewState": "AQIAANIAAAAAAAAAAAAAAOcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T00:50:53.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\jayde\OneDrive\Documents\projects\.NET\startnstop\startnstop\bin\Debug\net8.0\startnstop.exe
+C:\Users\jayde\OneDrive\Documents\projects\.NET\startnstop\startnstop\bin\Debug\net8.0\startnstop.deps.json
+C:\Users\jayde\OneDrive\Documents\projects\.NET\startnstop\startnstop\bin\Debug\net8.0\startnstop.runtimeconfig.json
+C:\Users\jayde\OneDrive\Documents\projects\.NET\startnstop\startnstop\bin\Debug\net8.0\startnstop.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\startnstop\startnstop\bin\Debug\net8.0\startnstop.pdb
+C:\Users\jayde\OneDrive\Documents\projects\.NET\startnstop\startnstop\obj\Debug\net8.0\startnstop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\OneDrive\Documents\projects\.NET\startnstop\startnstop\obj\Debug\net8.0\startnstop.AssemblyInfoInputs.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\startnstop\startnstop\obj\Debug\net8.0\startnstop.AssemblyInfo.cs
+C:\Users\jayde\OneDrive\Documents\projects\.NET\startnstop\startnstop\obj\Debug\net8.0\startnstop.csproj.CoreCompileInputs.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\startnstop\startnstop\obj\Debug\net8.0\startnstop.sourcelink.json
+C:\Users\jayde\OneDrive\Documents\projects\.NET\startnstop\startnstop\obj\Debug\net8.0\startnstop.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\startnstop\startnstop\obj\Debug\net8.0\refint\startnstop.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\startnstop\startnstop\obj\Debug\net8.0\startnstop.pdb
+C:\Users\jayde\OneDrive\Documents\projects\.NET\startnstop\startnstop\obj\Debug\net8.0\startnstop.genruntimeconfig.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\startnstop\startnstop\obj\Debug\net8.0\ref\startnstop.dll
