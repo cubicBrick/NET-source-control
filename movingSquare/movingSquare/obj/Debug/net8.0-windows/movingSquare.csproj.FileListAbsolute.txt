@@ -1,0 +1,17 @@
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\bin\Debug\net8.0-windows\movingSquare.exe
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\bin\Debug\net8.0-windows\movingSquare.deps.json
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\bin\Debug\net8.0-windows\movingSquare.runtimeconfig.json
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\bin\Debug\net8.0-windows\movingSquare.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\bin\Debug\net8.0-windows\movingSquare.pdb
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\obj\Debug\net8.0-windows\movingSquare.Form1.resources
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\obj\Debug\net8.0-windows\movingSquare.csproj.GenerateResource.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\obj\Debug\net8.0-windows\movingSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\obj\Debug\net8.0-windows\movingSquare.AssemblyInfoInputs.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\obj\Debug\net8.0-windows\movingSquare.AssemblyInfo.cs
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\obj\Debug\net8.0-windows\movingSquare.csproj.CoreCompileInputs.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\obj\Debug\net8.0-windows\movingSquare.sourcelink.json
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\obj\Debug\net8.0-windows\movingSquare.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\obj\Debug\net8.0-windows\refint\movingSquare.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\obj\Debug\net8.0-windows\movingSquare.pdb
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\obj\Debug\net8.0-windows\movingSquare.genruntimeconfig.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\movingSquare\movingSquare\obj\Debug\net8.0-windows\ref\movingSquare.dll

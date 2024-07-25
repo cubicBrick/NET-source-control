@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8dVkAHaecOI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\movingSquare\\movingSquare\\movingSquare.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayde\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
+    "C:\\Users\\jayde\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.7\\microsoft.netcore.app.runtime.win-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\jayde\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.7\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.7.nupkg.sha512",
+    "C:\\Users\\jayde\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.7\\microsoft.aspnetcore.app.runtime.win-x64.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
