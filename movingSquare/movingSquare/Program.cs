@@ -99,7 +99,7 @@ namespace MovingSquare
             {
                 // Draw new obstacle
                 int sz = rng.Next(125, 300);
-                int pos = rng.Next(580 - sz);
+                int pos = rng.Next((580 - sz)/2) + rng.Next((580 - sz)/2);
                 Obsticle o = new Obsticle();
                 o.X = 800;
                 o.Ytop = pos;
