@@ -242,6 +242,7 @@ namespace MovingSquare
                         shodebug = false;
                         invincable = false;
                         ticks = 0;
+                        speed = 2;
                         MessageBox.Show("Press OK to start.", "Flappy Square", MessageBoxButtons.OK, MessageBoxIcon.Information);
                         timer.Start();
                         running = true;

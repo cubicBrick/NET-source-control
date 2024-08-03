@@ -1,0 +1,15 @@
+C:\Users\jayde\OneDrive\Documents\projects\.NET\breakout\breakout\obj\Debug\net8.0-windows\breakout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayde\OneDrive\Documents\projects\.NET\breakout\breakout\obj\Debug\net8.0-windows\breakout.AssemblyInfoInputs.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\breakout\breakout\obj\Debug\net8.0-windows\breakout.AssemblyInfo.cs
+C:\Users\jayde\OneDrive\Documents\projects\.NET\breakout\breakout\obj\Debug\net8.0-windows\breakout.csproj.CoreCompileInputs.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\breakout\breakout\obj\Debug\net8.0-windows\breakout.sourcelink.json
+C:\Users\jayde\OneDrive\Documents\projects\.NET\breakout\breakout\bin\Debug\net8.0-windows\breakout.exe
+C:\Users\jayde\OneDrive\Documents\projects\.NET\breakout\breakout\bin\Debug\net8.0-windows\breakout.deps.json
+C:\Users\jayde\OneDrive\Documents\projects\.NET\breakout\breakout\bin\Debug\net8.0-windows\breakout.runtimeconfig.json
+C:\Users\jayde\OneDrive\Documents\projects\.NET\breakout\breakout\bin\Debug\net8.0-windows\breakout.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\breakout\breakout\bin\Debug\net8.0-windows\breakout.pdb
+C:\Users\jayde\OneDrive\Documents\projects\.NET\breakout\breakout\obj\Debug\net8.0-windows\breakout.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\breakout\breakout\obj\Debug\net8.0-windows\refint\breakout.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\breakout\breakout\obj\Debug\net8.0-windows\breakout.pdb
+C:\Users\jayde\OneDrive\Documents\projects\.NET\breakout\breakout\obj\Debug\net8.0-windows\breakout.genruntimeconfig.cache
+C:\Users\jayde\OneDrive\Documents\projects\.NET\breakout\breakout\obj\Debug\net8.0-windows\ref\breakout.dll
