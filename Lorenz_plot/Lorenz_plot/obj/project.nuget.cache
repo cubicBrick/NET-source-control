@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0P8JcSn5qpU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\Lorenz_plot\\Lorenz_plot\\Lorenz_plot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayde\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\jayde\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\jayde\\.nuget\\packages\\oxyplot.windowsforms\\2.1.2\\oxyplot.windowsforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\jayde\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.31\\microsoft.windows.sdk.net.ref.10.0.22621.31.nupkg.sha512"
+  ],
+  "logs": []
+}

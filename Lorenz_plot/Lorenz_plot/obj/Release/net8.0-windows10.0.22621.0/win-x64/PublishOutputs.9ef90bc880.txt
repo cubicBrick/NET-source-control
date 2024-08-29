@@ -1,0 +1,7 @@
+C:\Users\jayde\OneDrive\Documents\projects\.NET\Lorenz_plot\Lorenz_plot\bin\Release\net8.0-windows10.0.22621.0\win-x64\publish\Lorenz_plot.pdb
+C:\Users\jayde\OneDrive\Documents\projects\.NET\Lorenz_plot\Lorenz_plot\bin\Release\net8.0-windows10.0.22621.0\win-x64\publish\D3DCompiler_47_cor3.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\Lorenz_plot\Lorenz_plot\bin\Release\net8.0-windows10.0.22621.0\win-x64\publish\PenImc_cor3.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\Lorenz_plot\Lorenz_plot\bin\Release\net8.0-windows10.0.22621.0\win-x64\publish\PresentationNative_cor3.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\Lorenz_plot\Lorenz_plot\bin\Release\net8.0-windows10.0.22621.0\win-x64\publish\vcruntime140_cor3.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\Lorenz_plot\Lorenz_plot\bin\Release\net8.0-windows10.0.22621.0\win-x64\publish\wpfgfx_cor3.dll
+C:\Users\jayde\OneDrive\Documents\projects\.NET\Lorenz_plot\Lorenz_plot\bin\Release\net8.0-windows10.0.22621.0\win-x64\publish\Lorenz_plot.exe
