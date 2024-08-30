@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kGMVp7bHka4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\gameattempt\\gameattempt\\gameattempt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jayde\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.31\\microsoft.windows.sdk.net.ref.10.0.22621.31.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lorenz_plot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+047b46811e66dbb4eab03718e656dd0ba056fcec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed9f471250abd7db9bc0d94f8f0422bfb12a655c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lorenz_plot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lorenz_plot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
