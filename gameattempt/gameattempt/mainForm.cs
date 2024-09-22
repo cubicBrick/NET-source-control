@@ -50,7 +50,7 @@ namespace game
         public factory fact;
         public road r;
     }
-
+    
     public class disabledLabel : Label
     {
         Color color;
@@ -70,12 +70,111 @@ namespace game
             }
         }
     }
+    public partial class helpWindow : Form
+    {
+        private Label title;
+        private Label population;
+        private Button populationHelp;
+
+        public int populationCnt = 0;
+
+        public helpWindow()
+        {
+            Initilize_Component();
+        }
+        private void popHelp_Click(object? sender, EventArgs e)
+        {
+            MessageBox.Show("Population is a measure of your city's size.\nThe bigger the populationt the better!\nYou earn money based on your population.\nFor example, right now, you would earn " + ((int)(populationCnt * 0.3)).ToString() + " dollars.", "Population Explanation");
+        }
+        private void Initilize_Component()
+        {
+            this.SuspendLayout();
+
+            // Form properties
+            this.Text = "Farm Game Help Window";
+            this.ClientSize = new Size(500, 500);
+
+            title = new Label
+            {
+                Text = "Farm Game Help Window",
+                TextAlign = ContentAlignment.TopCenter,
+                ForeColor = Color.Black,
+                Font = new Font("Arial", 16),
+                Location = new Point(100, 10),
+                Size = new Size(300, 30)
+            };
+            population = new Label
+            {
+                Text = "Total Population: " + populationCnt.ToString(),
+                ForeColor = Color.Black,
+                Font = new Font("Arial", 12),
+                Location = new Point(10, 50),
+                Size = new Size(150, 50)
+            };
+            populationHelp = new Button
+            {
+                Text = "More",
+                Location = new Point(160, 47),
+                ForeColor = Color.Black
+            };
+            populationHelp.Click += popHelp_Click;
+
+            this.Controls.Add(title);
+            this.Controls.Add(population);
+            this.Controls.Add(populationHelp);
+
+
+            this.ResumeLayout(false);
+        }
+        public void Reload()
+        {
+            this.SuspendLayout();
+            this.Controls.Clear();
+
+            // Form properties
+            this.Text = "Farm Game Help Window";
+            this.ClientSize = new Size(500, 500);
+
+            title = new Label
+            {
+                Text = "Farm Game Help Window",
+                TextAlign = ContentAlignment.TopCenter,
+                ForeColor = Color.Black,
+                Font = new Font("Arial", 16),
+                Location = new Point(100, 10),
+                Size = new Size(300, 30)
+            };
+            population = new Label
+            {
+                Text = "Total Population: " + populationCnt.ToString(),
+                ForeColor = Color.Black,
+                Font = new Font("Arial", 12),
+                Location = new Point(10, 50),
+                Size = new Size(150, 50)
+            };
+            populationHelp = new Button
+            {
+                Text = "More",
+                Location = new Point(160, 47),
+                ForeColor = Color.Black
+            };
+            populationHelp.Click += popHelp_Click;
+
+            this.Controls.Add(title);
+            this.Controls.Add(population);
+            this.Controls.Add(populationHelp);
+
+
+            this.ResumeLayout(false);
+        }
+    }
+
 
     public partial class MainForm : Form
     {
         List<structure> assets = new();
         private PictureBox pictureBox;
-        private Bitmap image;
+        //private Bitmap image;
         private Bitmap farmImage;
         private Bitmap houseImage;
         private Bitmap factoryImage;
@@ -106,6 +205,10 @@ namespace game
         private ToolTip toolTip;
         private Random rng;
         private float moveinrate = 0.3f;
+        private int szWidth = 1000;
+        private int szHeight = 1000;
+        private Button showMoreDetails;
+        private helpWindow help;
 
         public MainForm()
         {
@@ -113,7 +216,7 @@ namespace game
 
             assets = new List<structure>();
 
-            image = new Bitmap("grass.jpg");
+            //image = new Bitmap("grass.jpg");
             farmImage = new Bitmap("farm.png");
             houseImage = new Bitmap("house.png");
             factoryImage = new Bitmap("factory.png");
@@ -139,7 +242,7 @@ namespace game
             {
                 Text = "Place Farm",
                 Location = new Point(700, 10),
-                Size = new Size(80, 30)
+                Size = new Size(90, 30)
             };
             setFarmButton.Click += SetFarmButton_Click;
 
@@ -147,7 +250,7 @@ namespace game
             {
                 Text = "Place House",
                 Location = new Point(700, 50),
-                Size = new Size(80, 30)
+                Size = new Size(90, 30)
             };
             placeHouseButton.Click += PlaceHouseButton_Click;
 
@@ -163,9 +266,17 @@ namespace game
             {
                 Text = "Place Road",
                 Location = new Point(700, 130),
-                Size = new Size(80, 30)
+                Size = new Size(90, 30)
             };
             placeRoadButton.Click += PlaceRoadButton_Click;
+
+            showMoreDetails = new Button
+            {
+                Text = "Help",
+                Location = new Point(700, 170),
+                Size = new Size(90, 30)
+            };
+            showMoreDetails.Click += Help_Click;
 
             currAction = new disabledLabel
             {
@@ -193,6 +304,7 @@ namespace game
             moneyDisplay.setColor(Color.Cyan);
             pictureBox.Controls.Add(moneyDisplay);
 
+            this.Controls.Add(showMoreDetails);
             this.Controls.Add(setFarmButton);
             this.Controls.Add(placeHouseButton);
             this.Controls.Add(placeFactoryButton);
@@ -236,10 +348,14 @@ namespace game
             }
             base.Dispose(disposing);
         }
+        private void Help_Click(object? sender, EventArgs e) 
+        {
+            help = new helpWindow();
+            help.Show();
+        }
 
         private void DisposeBitmaps()
         {
-            image?.Dispose();
             farmImage?.Dispose();
             houseImage?.Dispose();
             factoryImage?.Dispose();
@@ -322,12 +438,7 @@ namespace game
 
         private void UpdatePictureBoxImage()
         {
-            Bitmap croppedImage = CropImage(image, visibleRect);
-            if (pictureBox.Image != null)
-            {
-                pictureBox.Image.Dispose();
-            }
-            pictureBox.Image = croppedImage;
+            DrawAllAssets();
         }
 
         private void PictureBox_MouseDown(object? sender, MouseEventArgs e)
@@ -349,8 +460,8 @@ namespace game
                 if (Math.Abs(dx) > clickThreshold || Math.Abs(dy) > clickThreshold)
                 {
                     isDragging = true;
-                    visibleRect.X = Math.Max(0, Math.Min(image.Width - visibleRect.Width, visibleRect.X - dx));
-                    visibleRect.Y = Math.Max(0, Math.Min(image.Height - visibleRect.Height, visibleRect.Y - dy));
+                    visibleRect.X = Math.Max(0, Math.Min(szWidth - visibleRect.Width, visibleRect.X - dx));
+                    visibleRect.Y = Math.Max(0, Math.Min(szHeight - visibleRect.Height, visibleRect.Y - dy));
                     UpdatePictureBoxImage();
                     lastMousePos = e.Location;
                 }
@@ -454,13 +565,20 @@ namespace game
 
         private void DrawAllAssets()
         {
-            Bitmap bmp = new Bitmap(image.Width, image.Height);
+            Bitmap bmp = new Bitmap(szWidth, szHeight);
 
             using (Graphics g = Graphics.FromImage(bmp))
             {
                 using (SolidBrush brush = new SolidBrush(Color.Green))
                 {
-                    g.FillRectangle(brush, 0, 0, image.Width, image.Height);
+                    g.FillRectangle(brush, 0, 0, szWidth, szHeight);
+                }
+                using (SolidBrush brush = new SolidBrush(Color.Red))
+                {
+                    g.FillRectangle(brush, 0, 0, szWidth, 10);
+                    g.FillRectangle(brush, 0, szHeight - 10, szWidth, 10);
+                    g.FillRectangle(brush, 0, 0, 10, szHeight);
+                    g.FillRectangle(brush, szWidth - 10, 0, 10, szHeight);
                 }
                 foreach (var asset in assets)
                 {
@@ -511,6 +629,10 @@ namespace game
                     totalWorkers += asset.f.workers;
                     totalFood += asset.f.remaining_food;
                 }
+                if (asset.type == LANDTYPE.FACTORY)
+                {
+                    totalWorkers += asset.fact.workers;
+                }
             }
 
             totalPopulation = 0;
@@ -523,23 +645,20 @@ namespace game
                 {
                     int newOccupants = Math.Min(asset.h.maxSz - asset.h.occupation,
                         CalculateNewOccupants(asset));
-                    asset.h.occupation += newOccupants;
-                    totalPopulation += newOccupants;
-
-                    assets[i] = asset;
-                }
-                else if (asset.type == LANDTYPE.FACTORY)
-                {
-                    asset.fact.workers = Math.Min(asset.fact.maxWorkers, totalWorkers);
-                    totalWorkers -= asset.fact.workers;
-
+                    asset.h.occupation = newOccupants;
+                    totalPopulation += asset.h.occupation;
                     assets[i] = asset;
                 }
             }
 
-            money += (int)(totalPopulation * moneyPerPerson);
+            money += (int)(totalWorkers * moneyPerPerson);
             UpdateMoneyDisplay();
             DrawAllAssets();
+            if (help != null)
+            {
+                help.populationCnt = totalWorkers;
+                help.Reload();
+            }
         }
 
         private int CalculateNewOccupants(structure house)
@@ -559,10 +678,24 @@ namespace game
 
             if (rng.NextDouble() > proximityFactor)
             {
-                return 0;
+                // Polluted
+                return (int)(-house.h.occupation * rng.NextDouble());
             }
-
+            for (var i = 0; i < assets.Count; ++i)
+            {
+                var asset = assets[i];
+                if(asset.type == LANDTYPE.FACTORY)
+                {
+                    asset.f.workers = 0;
+                }
+                if(asset.type == LANDTYPE.FARM)
+                {
+                    asset.fact.workers = 0;
+                }
+                assets[i] = asset;
+            }
             int amtMove = 0;
+
             for (var i = 0; i < assets.Count; ++i)
             {
                 var asset = assets[i];
@@ -576,15 +709,19 @@ namespace game
                         }
                         if (rng.NextDouble() < moveinrate)
                         {
-                            if (asset.type == LANDTYPE.FACTORY && asset.fact.workers < asset.fact.maxWorkers)
+                            if (asset.type == LANDTYPE.FACTORY)
                             {
-                                asset.fact.workers++;
-                                amtMove++;
+                                asset.fact.workers += (int)((rng.NextDouble() < 1 - house.h.occupation / house.h.maxSz ? 1 : 0)
+                                    * rng.NextDouble()
+                                    * asset.fact.maxWorkers);
+                                amtMove += asset.fact.workers;
                             }
-                            else if (asset.type == LANDTYPE.FARM && asset.f.workers < asset.f.maxWorkers)
+                            else if (asset.type == LANDTYPE.FARM)
                             {
-                                asset.f.workers++;
-                                amtMove++;
+                                asset.f.workers += (int)((rng.NextDouble() < 1 - house.h.occupation / house.h.maxSz ? 1 : 0)
+                                    * rng.NextDouble()
+                                    * asset.f.maxWorkers);
+                                amtMove += asset.f.workers;
                             }
                         }
                     }

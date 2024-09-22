@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\amooogle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED8FA5B-63EE-4E55-8736-1E10731661AE}|amooogle\\amooogle.csproj|c:\\users\\jayde\\onedrive\\documents\\projects\\.net\\amooogle\\amooogle\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED8FA5B-63EE-4E55-8736-1E10731661AE}|amooogle\\amooogle.csproj|solutionrelative:amooogle\\ui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED8FA5B-63EE-4E55-8736-1E10731661AE}|amooogle\\amooogle.csproj|c:\\users\\jayde\\onedrive\\documents\\projects\\.net\\amooogle\\amooogle\\pages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED8FA5B-63EE-4E55-8736-1E10731661AE}|amooogle\\amooogle.csproj|solutionrelative:amooogle\\pages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED8FA5B-63EE-4E55-8736-1E10731661AE}|amooogle\\amooogle.csproj|c:\\users\\jayde\\onedrive\\documents\\projects\\.net\\amooogle\\amooogle\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED8FA5B-63EE-4E55-8736-1E10731661AE}|amooogle\\amooogle.csproj|solutionrelative:amooogle\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED8FA5B-63EE-4E55-8736-1E10731661AE}|amooogle\\amooogle.csproj|c:\\users\\jayde\\onedrive\\documents\\projects\\.net\\amooogle\\amooogle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED8FA5B-63EE-4E55-8736-1E10731661AE}|amooogle\\amooogle.csproj|solutionrelative:amooogle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED8FA5B-63EE-4E55-8736-1E10731661AE}|amooogle\\amooogle.csproj|c:\\users\\jayde\\onedrive\\documents\\projects\\.net\\amooogle\\amooogle\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED8FA5B-63EE-4E55-8736-1E10731661AE}|amooogle\\amooogle.csproj|solutionrelative:amooogle\\setup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UI.cs",
+              "DocumentMoniker": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\amooogle\\amooogle\\UI.cs",
+              "RelativeDocumentMoniker": "amooogle\\UI.cs",
+              "ToolTip": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\amooogle\\amooogle\\UI.cs",
+              "RelativeToolTip": "amooogle\\UI.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwC4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:40:59.311Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pages.cs",
+              "DocumentMoniker": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\amooogle\\amooogle\\pages.cs",
+              "RelativeDocumentMoniker": "amooogle\\pages.cs",
+              "ToolTip": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\amooogle\\amooogle\\pages.cs",
+              "RelativeToolTip": "amooogle\\pages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T14:29:45.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "search.cs",
+              "DocumentMoniker": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\amooogle\\amooogle\\search.cs",
+              "RelativeDocumentMoniker": "amooogle\\search.cs",
+              "ToolTip": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\amooogle\\amooogle\\search.cs",
+              "RelativeToolTip": "amooogle\\search.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:57:59.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "setup.cs",
+              "DocumentMoniker": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\amooogle\\amooogle\\setup.cs",
+              "RelativeDocumentMoniker": "amooogle\\setup.cs",
+              "ToolTip": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\amooogle\\amooogle\\setup.cs",
+              "RelativeToolTip": "amooogle\\setup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:37:41.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\amooogle\\amooogle\\Program.cs",
+              "RelativeDocumentMoniker": "amooogle\\Program.cs",
+              "ToolTip": "C:\\Users\\jayde\\OneDrive\\Documents\\projects\\.NET\\amooogle\\amooogle\\Program.cs",
+              "RelativeToolTip": "amooogle\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:34:53.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
